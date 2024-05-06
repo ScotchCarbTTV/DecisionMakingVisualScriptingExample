@@ -4,12 +4,19 @@ AI Actions/functions (in Wander)
 	//calculate path DONE
 		//determine starting point (current location) DONE
 		
-//move to next node
+//move to next node DONE
+	//universal 'CheckIfPathHasNodes' DONE	
 	
 //switch to combat (player spotted)
 	
-//turn towards target
+//turn towards target DONE
 	//check if facing towards target DONE
 	
 //use interactable
 
+//check for action points
+
+//remove action points for...
+	//moving
+	//turning
+	
