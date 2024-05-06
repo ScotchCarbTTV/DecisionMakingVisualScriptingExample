@@ -1,0 +1,15 @@
+AI Actions/functions (in Wander)
+
+//choose random location to move to DONE
+	//calculate path DONE
+		//determine starting point (current location) DONE
+		
+//move to next node
+	
+//switch to combat (player spotted)
+	
+//turn towards target
+	//check if facing towards target DONE
+	
+//use interactable
+
