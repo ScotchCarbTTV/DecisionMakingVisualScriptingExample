@@ -25,4 +25,15 @@ public class PerformCombat : MonoBehaviour
 
     }
 
+    public void DoRangedAttack()
+    {
+
+    }
+
+    public bool CheckMeleeRange()
+    {
+        //insert logic for checking if we're in melee range here
+        return true;
+    }
+
 }
